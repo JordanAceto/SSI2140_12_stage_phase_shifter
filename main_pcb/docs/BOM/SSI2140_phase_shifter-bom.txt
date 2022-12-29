@@ -1,0 +1,42 @@
+Row	Description	Part	References	Value	Footprint	Quantity Per PCB	Status	Datasheet
+1	Unpolarized capacitor	C	C301 C303 C501 C503 C601	100p	C_0603_1608Metric	5	 	~
+2	Unpolarized capacitor	C	C202	470p	C_0603_1608Metric	1	 	~
+3	Unpolarized capacitor	C	C401 C402 C403 C404 C405 C406 C407 C408 C409 C410 C411 C412	1n C0G	C_0805_2012Metric	12	 	~
+4	Unpolarized capacitor	C	C302	22n	C_Rect_L7.0mm_W2.5mm_P5.00mm	1	 	~
+5	Unpolarized capacitor	C	C502	100n	C_Rect_L7.0mm_W2.5mm_P5.00mm	1	 	~
+6	Unpolarized capacitor	C	C703 C704 C705 C706 C707 C708 C709 C710 C711 C712 C713 C714	100n	C_0603_1608Metric	12	 	~
+7	Unpolarized capacitor	C	C201	220n	C_Rect_L7.0mm_W2.5mm_P5.00mm	1	 	~
+8	Polarized capacitor	C_Polarized	C701 C702	10u	CP_Radial_D6.3mm_P2.50mm	2	 	~
+9	Zener diode	D_Zener	D601 D602	5v1	D_SOD-123	2	 	~
+10		PJ301M-12	J1 J2 J3	PJ301M-12	PJ301M-12	3	 	
+11	Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)	Conn_02x05_Odd_Even	J5	power_entry	PinHeader_2x05_P2.54mm_Vertical	1	 	~
+12	Resistor	R	R402 R405 R408 R411 R414 R417 R420 R423 R426 R429 R432 R435	200	R_0603_1608Metric	12	 	~
+13	Resistor	R	R506	1k	R_0603_1608Metric	1	 	~
+14	Resistor	R	R606	3k3	R_0603_1608Metric	1	 	~
+15	Resistor	R	R201 R401 R403 R404 R406 R407 R409 R410 R412 R413 R415 R416 R418 R419 R421 R422 R424 R425 R427 R428 R430 R431 R433 R434 R436 R503	10k	R_0603_1608Metric	26	 	~
+16	Resistor	R	R504 R607	15k	R_0603_1608Metric	2	 	~
+17	Resistor	R	R202 R301 R302 R303 R304 R305 R501 R502 R505 R602 R605	100k	R_0603_1608Metric	11	 	~
+18	Resistor	R	R603	270k	R_0603_1608Metric	1	 	~
+19	Resistor	R	R604	1M	R_0603_1608Metric	1	 	~
+20	Potentiometer	R_Potentiometer	RV301 RV501 RV601 RV602	100k c.d.	Potentiometer_Alpha_RD901F-40-00D_Single_Vertical	4	 	~
+21	Trim-potentiometer	R_Potentiometer_Trim	RV603	100k	Potentiometer_Bourns_3296W_Vertical	1	 	~
+22	3 rotary switches with 4 positions	SR1712F-0204	SW1	SR1712F-0204	SR1712F_rotary_switch	1	 	
+23		SSI2140	U3 U4 U5	SSI2140	TSSOP-20_4.4x6.5mm_P0.65mm	3	 	
+24	Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8	TL072	U1 U2 U6	TL072	SOIC-8_3.9x4.9mm_P1.27mm	3	 	http://www.ti.com/lit/ds/symlink/tl071.pdf
+
+
+
+
+
+Project info:
+Schematic:	SSI2140_phase_shifter
+Variant:	default
+Revision:	0
+Date:	2022-10-11
+KiCad Version:	6.0.5+dfsg-1~bpo11+1
+Statistics:
+Component Groups:	24
+Component Count:	108 (87 SMD/ 15 THT)
+Fitted Components:	108 (87 SMD/ 15 THT)
+Number of PCBs:	1
+Total Components:	108

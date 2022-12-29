@@ -1,0 +1,9 @@
+### Missing 3D models - created on 2022-10-13 07:32
+### Printed by checking_3D_models plugin
+Board file: /home/jordan/Documents/audio_projects/sandbox/SSI2140_phase_shifter/front_panel/kicad_6/SSI2140_Phase_Shifter_front_panel.kicad_pcb
+3D missing models written to:
+/home/jordan/Documents/audio_projects/sandbox/SSI2140_phase_shifter/front_panel/kicad_6/SSI2140_Phase_Shifter_front_panel_missing3Dmodels.txt
+-------
+-------
+NUM of 3D missing models:0
+checked extensions ['.stp', '.step', '.stpZ']
