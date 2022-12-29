@@ -4,7 +4,7 @@
 
 ---
 
-## [SCHEMATIC]()
+## [SCHEMATIC](https://github.com/JordanAceto/SSI2140_12_stage_phase_shifter/blob/main/main_pcb/docs/SSI2140_phase_shifter-schematic.pdf)
 
 ---
 
